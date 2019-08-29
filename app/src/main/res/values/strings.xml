@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colaciones Lupita</string>
+    <string name="title_home">Carta</string>
+    <string name="title_notifications">Noticias</string>
+
+    <string name="txtDesayuno">Desayuno</string>
+    <string name="txtAlmuerzo">Almuerzo</string>
+    <string name="txtOnce">Once</string>
+</resources>
