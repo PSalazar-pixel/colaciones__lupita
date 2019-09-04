@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_home:
                     textDesayuno.setText("Desayuno");
                     textAlmuerzo.setText("Almuerzo");
-                    textOnce.setText("Onc");
+                    textOnce.setText("Once");
                     return true;
                 case R.id.navigation_notifications:
                     textDesayuno.setText("");
